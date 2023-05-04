@@ -1,16 +1,14 @@
 
+Created a virtual enviroment
+
 python -m pip install --upgrade pip
 
-Successfully installed shapely-2.0.1
-
-Successfully installed numpy-1.24.3 pandas-2.0.1 pytz-2023.3 tzdata-2023.3
-
-Successfully installed attrs-23.1.0 certifi-2022.12.7 click-8.1.3 click-plugins-1.1.1 cligj-0.7.2 fiona-1.9.3 geopandas-0.12.2 munch-2.5.0 pyproj-3.5.0
-
-Successfully installed contourpy-1.0.7 cycler-0.11.0 fonttools-4.39.3 importlib-resources-5.12.0 kiwisolver-1.4.4 matplotlib-3.7.1 pillow-9.5.0 pyparsing-3.0.9
-
-Successfully installed joblib-1.2.0 scikit-learn-1.2.2 scipy-1.10.1 threadpoolctl-3.1.0
-(pip install scikit-learn[alldeps])
-
-Successfully installed seaborn-0.12.2
+libraries installed:
+shapely
+pandas
+numpy
+geopandas
+matplotlib
+scikit-learn
+seaborn
 

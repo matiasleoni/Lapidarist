@@ -29,3 +29,5 @@ The limousine comes to a full stop. As the driver gets out to open the door you 
 
 The code used to solve this problem can be found in "mapeo.ipynb" and a private report explaining the thought process and results was emailed.
 
+Requirements should not be thougt as a pip'able file but as a description.
+
