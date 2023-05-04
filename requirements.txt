@@ -14,4 +14,3 @@ Successfully installed joblib-1.2.0 scikit-learn-1.2.2 scipy-1.10.1 threadpoolct
 
 Successfully installed seaborn-0.12.2
 
-failed for pysal

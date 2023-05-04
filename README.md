@@ -1,5 +1,7 @@
 # The lapidarist problem
 
+## The problem
+
 This problem is for you to:
 
 * Show your abilities in data loading, cleaning and descriptive analysis. Some rows contain errors. Extra points: clean these rows and include them in your analysis.
@@ -21,4 +23,9 @@ The limousine comes to a full stop. As the driver gets out to open the door you 
 - **Prime Minister**: “Which is why we’re providing you with a huge dataset, containing characteristics and prices for tens of thousands of diamonds. Now, get working.“
 
 “Huge? Tens of thousands?“ You think. “And I thought I was the clueless one here.”
+
+
+## Solution
+
+The code used to solve this problem can be found in "mapeo.ipynb" and a private report explaining the thought process and results was emailed.
 
